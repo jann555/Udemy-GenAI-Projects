@@ -17,5 +17,3 @@ Certainly! Let's break down the instructions for the project titled "Build an Op
    - Write at least one sentence explaining why you believe the chosen dataset is appropriate for this chatbot application.
 
 Remember to replace your OpenAI API key with a placeholder ("YOUR API KEY") before submitting your project. Additionally, consider implementing the suggested improvements to make your project stand out!
-
-Feel free to ask if you need further clarification or have additional questions! 😊

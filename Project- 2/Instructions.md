@@ -36,5 +36,3 @@ Once you've met all of the rubric requirements, you can submit your project usin
 Remember to double-check your submission and ensure that your API key is properly masked. Good luck, and happy submitting! 🚀
 
 ---
-
-Feel free to ask if you need any further assistance or have additional questions! 😊
