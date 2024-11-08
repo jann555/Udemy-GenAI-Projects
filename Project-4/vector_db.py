@@ -14,7 +14,7 @@ from listings_generator import generate_real_estate_listings as listing_gen
 os.environ["OPENAI_API_KEY"] = "YOUR API KEY"
 os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 model_name = "gpt-3.5-turbo"
-CHUNK_SIZE = 1200
+CHUNK_SIZE = 2000
 
 
 def build_listings_db(num_listings, max_tokens, temperature, listings_file_name):
