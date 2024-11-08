@@ -1,3 +1,5 @@
+import warnings
+
 import pyfiglet
 
 from vector_db import build_listings_db, perform_semantic_search
@@ -6,7 +8,7 @@ from prompt_creator import start_conversation_and_get_query
 MAX_TOKENS = 3500
 NUM_LISTINGS = 15
 LISTINGS_FILE_NAME = "file_loader_doc"
-TEMPERATURE = 0.9
+TEMPERATURE = 0.7
 
 
 def art_message(message):
@@ -15,7 +17,7 @@ def art_message(message):
 
 
 def start_home_match():
-    art_message("Welcome to HomeMatch!")
+    art_message("Welcome to HomeMatch")
 
     query = start_conversation_and_get_query(user_input_enable=False)
 
@@ -23,10 +25,12 @@ def start_home_match():
 
     chain = perform_semantic_search(db, query, TEMPERATURE, MAX_TOKENS)
 
-    art_message("Results!")
+    art_message("Results")
 
     print(chain)
 
 
-# Main appli
-start_home_match()
+# Main application
+with warnings.catch_warnings():
+    warnings.simplefilter("ignore")
+    start_home_match()
