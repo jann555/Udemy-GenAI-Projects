@@ -1,9 +1,7 @@
 import os
-from typing import Dict, Any
-
 from langchain.chat_models import ChatOpenAI
 
-os.environ["OPENAI_API_KEY"] = "voc-927679694126677349941366e0f8c9298d01.66643071"
+os.environ["OPENAI_API_KEY"] = "YOUR API KEY"
 os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 # Defined a constant to define when to implement user interaction
 USER_INPUT_ENABLED = True
