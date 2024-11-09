@@ -12,6 +12,7 @@ llm = ChatOpenAI(model=model, temperature=temperature, max_tokens=2000)
 # Define hardcode questions for testing purposes
 
 QUESTIONS = [
+    "What is your budget?\n",
     "How big do you want your house to be?\n",
     "What are 3 most important things for you in choosing this property?\n",
     "Which amenities would you like?\n",
@@ -19,10 +20,11 @@ QUESTIONS = [
     "How urban do you want your neighborhood to be?\n",
 ]
 ANSWERS = [
+    "My budget is between $500,000 and $680,000\n",
     "A comfortable three-bedroom house with a spacious kitchen and a cozy living room.\n",
     "A quiet neighborhood, good local schools, and convenient shopping options.\n",
-    "A backyard for gardening, a two-car garage, and a modern, energy-efficient heating system.\n",
-    "Easy access to a reliable bus line, proximity to a major highway, and bike-friendly roads.\n",
+    "A backyard for gardening, a two-car garage, and a gas heating system.\n",
+    "Proximity to a major highway, and bike-friendly roads.\n",
     "A balance between suburban tranquility and access to urban amenities like restaurants and theaters.\n"
 ]
 
@@ -54,7 +56,7 @@ def get_conversation_query(personal_questions: [], personal_answers: []):
     descriptions should be unique, appealing, and tailored to the preferences provided. This involves subtly 
     emphasizing aspects of the property that align with what the buyer is looking for. Ensure that the augmentation 
     process enhances the appeal of the listing without altering factual information. Output the real state listing(s) 
-    with the personalized augmented text description while keeping the basic listing information.\n"""
+    with the personalized augmented text description.\n"""
     return query
 
 
