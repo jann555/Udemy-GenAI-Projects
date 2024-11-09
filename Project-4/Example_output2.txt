@@ -1,0 +1,57 @@
+Questions:
+
+What is your budget?
+My max is about $700,000
+How big do you want your house to be?
+I need a minimum of 4 bedrooms and 2 bathrooms
+What are 3 most important things for you in choosing this property?
+A good school district, good art scene and recreation areas
+Which amenities would you like?
+A front yard, a basement and a two car garage system
+Which transportation options are important to you?
+Proximity to major highways and bike-friendly roads
+How urban do you want your neighborhood to be?
+A balance between suburban tranquility and urban living
+-------------------------------------------------------------
+Output:
+---------------------------------------------------------------
+
+in this vibrant and eclectic neighborhood.
+
+Based on your preferences, I recommend the following listing:
+
+Neighborhood: Brookhaven
+Price: $1,100,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 3,500 sqft
+
+Description: This stunning custom-built home in Brookhaven offers a perfect balance between suburban tranquility and urban living. The main level features a grand two-story foyer, formal living and dining rooms, and a gourmet kitchen with high-end appliances and a large island. The kitchen opens to a spacious family room with a fireplace and built-in bookshelves. The primary suite is located on the main level and includes a spa-like bathroom and walk-in closet. Upstairs, you'll find three additional bedrooms and two full bathrooms. The finished basement offers a media room, exercise room, and guest suite. The backyard is an entertainer's dream, with a covered patio, outdoor kitchen, and fire pit. Don't miss out on this beautiful home in a prime Brookhaven location.
+
+Neighborhood Description: Brookhaven is known for its upscale homes, tree-lined streets, and convenient location. Residents enjoy easy access to popular restaurants, shops, and parks, as well as top-rated schools. This neighborhood is also just a short drive from Buckhead and downtown Atlanta. With proximity to major highways and a two-car garage system, this listing aligns perfectly with your preferences for a good school district, recreation areas, and urban amenities.
+
+Process finished with exit code 0
+
+-------------------------------------------------------------------------------------------
+Original Listing: listings-151624.txt
+Neighborhood: Brookhaven
+   Price: $1,100,000
+   Bedrooms: 5
+   Bathrooms: 4
+   House Size: 3,500 sqft
+
+   Description: This stunning custom-built home is located in the highly desirable neighborhood of Brookhaven.
+   The main level features a grand two-story foyer, formal living and dining rooms, and a gourmet kitchen with
+   high-end appliances and a large island. The kitchen opens to a spacious family room with a fireplace and
+   built-in bookshelves. The primary suite is also located on the main level and includes a spa-like bathroom
+   and walk-in closet. Upstairs, you'll find three additional bedrooms and two full bathrooms. The finished
+   basement offers a media room, exercise room, and guest suite. The backyard is an entertainer's dream, with
+   a covered patio, outdoor kitchen, and fire pit. Don't miss out on this beautiful home in a prime Brookhaven
+   location.
+
+   Neighborhood Description: Brookhaven is known for its upscale homes, tree-lined streets, and convenient
+   location. Residents enjoy easy access to popular restaurants, shops, and parks, as well as top-rated
+   schools. This neighborhood is also just a short drive from Buckhead and downtown Atlanta.
+
+--------------------------------------------------------
+Outcome: It did not keep the budget, but it made the listing appealing
