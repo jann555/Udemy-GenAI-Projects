@@ -44,7 +44,7 @@ HomeMatch with will start the application by welcoming you to the application an
 
 - The application builds a query from the questions and answers
 
-- In the back-end the application is going to synthetically generate listings using a predefined template and save the output to a text file. We used the model "gpt-3.5-turbo-instruct" to generate these listings
+- In the back-end the application is going to synthetically generate listings using a predefined template and save the output to a text file (listings.txt). We used the model "gpt-3.5-turbo-instruct" to generate these listings
 
 - We load, split into chunks and generate embeddings.
 

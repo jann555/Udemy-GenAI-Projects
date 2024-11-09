@@ -1,0 +1,231 @@
+1. Neighborhood: Buckhead
+   Price: $1,200,000
+   Bedrooms: 5
+   Bathrooms: 4
+   House Size: 3,500 sqft
+   
+   Description: This stunning home in the heart of Buckhead offers luxury living at its finest. With five spacious bedrooms and four 
+   bathrooms, this home boasts over 3,500 square feet of living space. The main level features an open floor plan with a 
+   gourmet kitchen, complete with high-end appliances and a large island. The kitchen flows seamlessly into the living room, 
+   which features a beautiful fireplace and large windows that fill the space with natural light. The primary suite is located 
+   on the main level and includes a spa-like bathroom with a soaking tub and walk-in shower. Upstairs, you'll find four 
+   additional bedrooms, each with their own unique charm. The backyard is an entertainer's dream, with a covered patio, 
+   outdoor kitchen, and a sparkling pool. Don't miss out on the opportunity to own this luxurious home in one of Atlanta's 
+   most desirable neighborhoods.
+
+   Neighborhood Description: Buckhead is known for its upscale shopping, dining, and entertainment options. This home is just 
+   minutes away from the Shops at Buckhead, Lenox Square, and Phipps Plaza. Residents also have easy access to major highways 
+   and public transportation, making it a convenient location for commuters. With top-rated schools and beautiful tree-lined 
+   streets, Buckhead is the perfect place to call home.
+
+2. Neighborhood: Decatur
+   Price: $600,000
+   Bedrooms: 3
+   Bathrooms: 2
+   House Size: 2,000 sqft
+   
+   Description: This charming bungalow in Decatur is the perfect blend of modern updates and historic charm. The main level 
+   features a spacious living room with a fireplace, a separate dining room, and a renovated kitchen with stainless steel 
+   appliances and granite countertops. The primary suite is also located on the main level and includes a beautifully 
+   renovated bathroom with a double vanity and walk-in shower. Upstairs, you'll find two additional bedrooms and a full 
+   bathroom. The backyard is a private oasis, with a large deck and plenty of room for outdoor entertaining. This home is 
+   located in the highly sought-after Decatur school district and is just a short drive from downtown Decatur's shops, 
+   restaurants, and parks.
+
+   Neighborhood Description: Decatur is a vibrant and diverse community, known for its strong sense of community and top-rated 
+   schools. This home is located just minutes from downtown Decatur, where you'll find a variety of restaurants, shops, and 
+   entertainment options. With easy access to major highways and public transportation, Decatur is a popular choice for 
+   commuters. Plus, the city hosts numerous festivals and events throughout the year, making it a fun and lively place to 
+   live.
+
+3. Neighborhood: Virginia Highland
+   Price: $850,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 2,500 sqft
+   
+   Description: This beautiful craftsman-style home in Virginia Highland offers the perfect combination of modern updates and 
+   historic charm. The main level features an open floor plan with a gourmet kitchen, complete with high-end appliances and a 
+   large island. The kitchen flows seamlessly into the living room, which features a cozy fireplace and built-in bookshelves. 
+   The primary suite is located on the main level and includes a luxurious bathroom with a double vanity and walk-in shower. 
+   Upstairs, you'll find three additional bedrooms and two full bathrooms. The backyard is a private oasis, with a large 
+   deck and plenty of room for outdoor entertaining. This home is located in one of Atlanta's most desirable neighborhoods 
+   and is just a short walk from the shops and restaurants of Virginia Highland.
+
+   Neighborhood Description: Virginia Highland is a charming and walkable neighborhood, known for its tree-lined streets, 
+   historic homes, and popular restaurants and bars. Residents also have easy access to the Atlanta Beltline, Piedmont Park, 
+   and other popular attractions. With top-rated schools and a strong sense of community, Virginia Highland is a highly 
+   desirable place to live.
+
+4. Neighborhood: Sandy Springs
+   Price: $450,000
+   Bedrooms: 3
+   Bathrooms: 2
+   House Size: 1,800 sqft
+   
+   Description: This updated ranch home in Sandy Springs is the perfect blend of modern updates and cozy charm. The main level 
+   features a spacious living room with a fireplace, a separate dining room, and a renovated kitchen with stainless steel 
+   appliances and granite countertops. The primary suite is also located on the main level and includes a beautifully 
+   renovated bathroom with a double vanity and walk-in shower. Two additional bedrooms and a full bathroom can be found 
+   upstairs. The backyard is a private oasis, with a large deck and plenty of room for outdoor entertaining. This home is 
+   located in the highly sought-after Sandy Springs school district and is just a short drive from shopping, dining, and 
+   entertainment options.
+
+   Neighborhood Description: Sandy Springs is a popular suburban community, known for its excellent schools, beautiful parks, 
+   and convenient location. This home is just minutes from major highways, making it a great choice for commuters. Residents 
+   also have access to a variety of shopping and dining options, including the popular City Springs development. With a 
+   strong sense of community and a variety of housing options, Sandy Springs is a great place to call home.
+
+5. Neighborhood: Inman Park
+   Price: $1,100,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 3,000 sqft
+   
+   Description: This stunning Victorian home in Inman Park has been beautifully renovated and offers the perfect blend of 
+   historic charm and modern updates. The main level features a grand foyer, a formal living room, and a separate dining 
+   room. The gourmet kitchen is a chef's dream, with high-end appliances, a large island, and plenty of storage space. The 
+   kitchen flows seamlessly into the family room, which features a cozy fireplace and built-in bookshelves. The primary 
+   suite is located on the second level and includes a luxurious bathroom with a clawfoot tub and walk-in shower. Three 
+   additional bedrooms and two full bathrooms can be found on the third level. The backyard is a private oasis, with a 
+   covered patio and plenty of room for outdoor entertaining. This home is located in one of Atlanta's most desirable 
+   neighborhoods and is just a short walk from the Beltline, Krog Street Market, and other popular attractions.
+
+   Neighborhood Description: Inman Park is a historic and eclectic neighborhood, known for its beautiful Victorian homes, 
+   trendy restaurants and bars, and proximity to popular attractions. The neighborhood is also home to the annual Inman Park 
+   Festival, which draws thousands of visitors each year. With a strong sense of community and a variety of housing options, 
+   Inman Park is a highly desirable place to live.
+
+6. Neighborhood: Brookhaven
+   Price: $750,000
+   Bedrooms: 5
+   Bathrooms: 4
+   House Size: 3,500 sqft
+   
+   Description: This spacious home in Brookhaven offers plenty of room for the whole family. With five bedrooms and four 
+   bathrooms, this home boasts over 3,500 square feet of living space. The main level features a formal living room, a 
+   separate dining room, and a gourmet kitchen with high-end appliances and a large island. The kitchen flows seamlessly 
+   into the family room, which features a cozy fireplace and built-in bookshelves. The primary suite is located on the main 
+   level and includes a luxurious bathroom with a double vanity and walk-in shower. Upstairs, you'll find four additional 
+   bedrooms and two full bathrooms. The backyard is a private oasis, with a covered patio and plenty of room for outdoor 
+   entertaining. This home is located in the highly sought-after Brookhaven school district and is just a short drive from 
+   shopping, dining, and entertainment options.
+
+   Neighborhood Description: Brookhaven is a popular and affluent community, known for its beautiful homes, top-rated schools, 
+   and convenient location. This home is just minutes from major highways, making it a great choice for commuters. Residents 
+   also have access to a variety of shopping and dining options, including the popular Town Brookhaven development. With a 
+   strong sense of community and a variety of housing options, Brookhaven is a great place to call home.
+
+7. Neighborhood: Midtown
+   Price: $1,500,000
+   Bedrooms: 3
+   Bathrooms: 3
+   House Size: 2,800 sqft
+   
+   Description: This luxurious penthouse in Midtown offers stunning views of the city skyline. With three bedrooms and three 
+   bathrooms, this home boasts over 2,800 square feet of living space. The open floor plan features a gourmet kitchen with 
+   high-end appliances, a large island, and plenty of storage space. The kitchen flows seamlessly into the living room, 
+   which features floor-to-ceiling windows and a fireplace. The primary suite is a true retreat, with a spa-like bathroom 
+   and a large walk-in closet. The building offers a variety of amenities, including a rooftop pool, fitness center, and 
+   concierge service. This home is located in the heart of Midtown, just steps away from popular restaurants, shops, and 
+   entertainment options.
+
+   Neighborhood Description: Midtown is a bustling and vibrant neighborhood, known for its high-rise condos, trendy 
+   restaurants and bars, and cultural attractions. Residents have easy access to the Atlanta Beltline, Piedmont Park, and 
+   other popular destinations. With a mix of historic and modern architecture, Midtown offers a unique and diverse 
+   community for its residents.
+
+8. Neighborhood: Grant Park
+   Price: $600,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 2,500 sqft
+   
+   Description: This charming bungalow in Grant Park has been beautifully renovated and offers the perfect blend of modern 
+   updates and historic charm. The main level features an open floor plan with a gourmet kitchen, complete with high-end 
+   appliances and a large island. The kitchen flows seamlessly into the living room, which features a cozy fireplace and 
+   built-in bookshelves. The primary suite is located on the main level and includes a luxurious bathroom with a double 
+   vanity and walk-in shower. Upstairs, you'll find three additional bedrooms and two full bathrooms. The backyard is a 
+   private oasis, with a covered patio and plenty of room for outdoor entertaining. This home is located in one of Atlanta's 
+   most desirable neighborhoods and is just a short walk from the Atlanta Zoo, Grant Park, and other popular attractions.
+
+   Neighborhood Description: Grant Park is a historic and diverse neighborhood, known for its beautiful homes, popular 
+   restaurants and bars, and proximity to popular attractions. The neighborhood is also home to the annual Grant Park 
+   Summer Shade Festival, which draws thousands of visitors each year. With a strong sense of community and a variety of 
+   housing options, Grant Park is a highly desirable place to live.
+
+9. Neighborhood: Druid Hills
+   Price: $1,800,000
+   Bedrooms: 6
+   Bathrooms: 5
+   House Size: 4,500 sqft
+   
+   Description: This stunning home in Druid Hills offers luxury living at its finest. With six spacious bedrooms and five 
+   bathrooms, this home boasts over 4,500 square feet of living space. The main level features an open floor plan with a 
+   gourmet kitchen, complete with high-end appliances and a large island. The kitchen flows seamlessly into the living room, 
+   which features a beautiful fireplace and large windows that fill the space with natural light. The primary suite is 
+   located on the main level and includes a spa-like bathroom with a soaking tub and walk-in shower. Upstairs, you'll find 
+   four additional bedrooms, each with their own unique charm. The backyard is an entertainer's dream, with a covered patio, 
+   outdoor kitchen, and a sparkling pool. Don't miss out on the opportunity to own this luxurious home in one of Atlanta's 
+   most desirable neighborhoods.
+
+   Neighborhood Description: Druid Hills is a historic and prestigious neighborhood, known for its beautiful homes, tree-lined 
+   streets, and proximity to popular attractions. The neighborhood is also home to Emory University and the CDC, making it a 
+   popular choice for those who work in the medical field. With top-rated schools and a strong sense of community, Druid 
+   Hills is a highly desirable place to live.
+
+10. Neighborhood: East Atlanta
+   Price: $400,000
+   Bedrooms: 3
+   Bathrooms: 2
+   House Size: 1,800 sqft
+   
+   Description: This updated ranch home in East Atlanta is the perfect blend of modern updates and cozy charm. The main level 
+   features a spacious living room with a fireplace, a separate dining room, and a renovated kitchen with stainless steel 
+   appliances and granite countertops. The primary suite is also located on the main level and includes a beautifully 
+   renovated bathroom with a double vanity and walk-in shower. Two additional bedrooms and a full bathroom can be found 
+   upstairs. The backyard is a private oasis, with a large deck and plenty of room for outdoor entertaining. This home is 
+   located in the highly sought-after East Atlanta school district and is just a short drive from shopping, dining, and 
+   entertainment options.
+
+   Neighborhood Description: East Atlanta is a trendy and eclectic neighborhood, known for its diverse community, popular 
+   restaurants and bars, and proximity to popular attractions. The neighborhood is also home to the annual East Atlanta 
+   Strut festival, which draws thousands of visitors each year. With a strong sense of community and a variety of housing 
+   options, East Atlanta is a highly desirable place to live.
+
+11. Neighborhood: Candler Park
+   Price: $900,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 2,500 sqft
+   
+   Description: This beautiful craftsman-style home in Candler Park offers the perfect combination of modern updates and 
+   historic charm. The main level features an open floor plan with a gourmet kitchen, complete with high-end appliances and 
+   a large island. The kitchen flows seamlessly into the living room, which features a cozy fireplace and built-in 
+   bookshelves. The primary suite is located on the main level and includes a luxurious bathroom with a double vanity and 
+   walk-in shower. Upstairs, you'll find three additional bedrooms and two full bathrooms. The backyard is a private oasis, 
+   with a large deck and plenty of room for outdoor entertaining. This home is located in one of Atlanta's most desirable 
+   neighborhoods and is just a short walk from the Atlanta Beltline, Candler Park, and other popular attractions.
+
+   Neighborhood Description: Candler Park is a charming and walkable neighborhood, known for its tree-lined streets, historic 
+   homes, and popular restaurants and bars. Residents also have easy access to the Atlanta Beltline, Freedom Park, and other 
+   popular destinations. With top-rated schools and a strong sense of community, Candler Park is a highly desirable place 
+   to live.
+
+12. Neighborhood: Ansley Park
+   Price: $2,000,000
+   Bedrooms: 5
+   Bathrooms: 5
+   House Size: 4,000 sqft
+   
+   Description: This luxurious home in Ansley Park offers stunning views of the city skyline. With five bedrooms and five 
+   bathrooms, this home boasts over 4,000 square feet of living space. The open floor plan features a gourmet kitchen with 
+   high-end appliances, a large island, and plenty of storage space. The kitchen flows seamlessly into the living room, 
+   which features floor-to-ceiling windows and a fireplace. The primary suite is a true retreat, with a spa-like bathroom 
+   and a large walk-in closet. The backyard is a private oasis, with a covered patio and plenty of room for outdoor 
+   entertaining. This home is located in one of Atlanta's most prestigious neighborhoods and is just a short walk from 
+   Piedmont Park, the Atlanta Botanical Garden, and other popular attractions.
+
+   Neighborhood Description: Ansley Park is an affluent and historic neighborhood, known for its beautiful homes, tree-lined 
+   streets, and proximity to popular attractions. The neighborhood is also home to the Ansley Golf Club and the Ansley Park 
+   Playhouse, making it a popular choice for those who enjoy outdoor activities and

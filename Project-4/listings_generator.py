@@ -12,12 +12,14 @@ LISTINGS_FILE_NAME = f"listings"
 def generate_real_estate_listings(num, max_tokens, temperature, generate_new_listings=True) -> str:
     # Define the prompt for generating real estate listings
     print('Please wait while we prepare some awesome recommendations for you! Loading...')
-    rand_seed = random.randint(1, 1000000) if generate_new_listings else ''
-    path = f'./{LISTINGS_FILE_NAME}{rand_seed}.txt'
+    path = f'./{LISTINGS_FILE_NAME}.txt'
     file_exists = Path(path).is_file()
 
     # Check if this function has already been executed and generated an output file to avoid executing it again
-    if file_exists:
+    if file_exists and generate_new_listings:
+        rand_seed = random.randint(1, 1000000)
+        path = f'./{LISTINGS_FILE_NAME}-{rand_seed}.txt'
+    elif file_exists and not generate_new_listings:
         return path
 
     prompt = f"""
