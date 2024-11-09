@@ -1,5 +1,3 @@
-import os
-
 from langchain.chains.question_answering import load_qa_chain
 from langchain.document_loaders import TextLoader
 from langchain.embeddings import OpenAIEmbeddings
@@ -7,20 +5,16 @@ from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
-
 from listings_generator import generate_real_estate_listings as listing_gen
 
-
-os.environ["OPENAI_API_KEY"] = "YOUR API KEY"
-os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 model_name = "gpt-3.5-turbo"
-CHUNK_SIZE = 2000
+CHUNK_SIZE = 1000
 
 
-def build_listings_db(num_listings, max_tokens, temperature, listings_file_name):
+def build_listings_db(num_listings, max_tokens, temperature, generate_new_listings):
     # We use listing_gen(num_listings, max_tokens, LISTINGS_FILE_NAME) to generate real listings and return them in the
     # form of a text file
-    raw_listings = listing_gen(num_listings, max_tokens, temperature, listings_file_name)
+    raw_listings = listing_gen(num_listings, max_tokens, temperature, generate_new_listings)
     # Load Text document from file_name path
     docs = TextLoader(raw_listings).load()
     # use a Text Splitter to split the documents into chunks
@@ -36,7 +30,7 @@ def build_listings_db(num_listings, max_tokens, temperature, listings_file_name)
 
 def perform_semantic_search(db, query, temperature, max_tokens):
     llm = OpenAI(model_name=model_name, temperature=temperature, max_tokens=max_tokens)
-    similar_docs = db.similarity_search(query, k=5)
+    similar_docs = db.similarity_search(query, k=2)
     prompt = PromptTemplate(
         template="{query}\nContext: {context}",
         input_variables=["query", "context"],

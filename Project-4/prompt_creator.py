@@ -4,7 +4,6 @@ from langchain.chat_models import ChatOpenAI
 os.environ["OPENAI_API_KEY"] = "YOUR API KEY"
 os.environ["OPENAI_API_BASE"] = "https://openai.vocareum.com/v1"
 # Defined a constant to define when to implement user interaction
-USER_INPUT_ENABLED = True
 
 model = "gpt-3.5-turbo"
 temperature = 0.5
@@ -45,16 +44,17 @@ def get_conversation_query(personal_questions: [], personal_answers: []):
     questions_count = len(personal_questions)
     query = """"""
     query += f"""You are the AI model that will find real state listings that match the criteria to the user answers 
-    to personal questions. Ask the user {questions_count + 1} questions\n\n"""
+    to personal questions. Ask the user {questions_count + 1} questions\n"""
 
     for i in range(questions_count):
-        query += f'{personal_questions[i]}\n'
-        query += f'{personal_answers[i]}\n'
+        query += f'Question {i}: {personal_questions[i]}\n'
+        query += f'Answer {i}: {personal_answers[i]}\n'
 
-    query += """\n\nNow display recommended listing with personalized descriptions based on buyer preferences. The 
+    query += """\n\n Now recommend listings with personalized descriptions based on buyer preferences. The 
     descriptions should be unique, appealing, and tailored to the preferences provided. This involves subtly 
     emphasizing aspects of the property that align with what the buyer is looking for. Ensure that the augmentation 
-    process enhances the appeal of the listing without altering factual information.\n\n"""
+    process enhances the appeal of the listing without altering factual information. Output the real state listing(s) 
+    with the personalized augmented text description while keeping the basic listing information.\n"""
     return query
 
 
@@ -74,10 +74,10 @@ def ask_user_questions():
     return questions_and_answers
 
 
-def start_conversation_and_get_query(user_input_enable=USER_INPUT_ENABLED):
+def start_conversation_and_get_query(test_data_enabled=False):
     print('Let\'s start by getting you know your preferences by answering some basic questions to help you find your '
           'dream home\n')
-    questions_and_answers = ask_user_questions() if user_input_enable else print_hardcoded_q_n_a()
+    questions_and_answers = ask_user_questions() if not test_data_enabled else print_hardcoded_q_n_a()
     questions = questions_and_answers["personal_questions"]
     answers = questions_and_answers["personal_answers"]
     query = get_conversation_query(questions, answers)
