@@ -10,7 +10,7 @@ parser = argparse.ArgumentParser(description="HomeMatch Application")
 parser.add_argument('--max_tokens', type=int, default=3500, help='Maximum number of tokens (default: 3500)')
 parser.add_argument('--num_listings', type=int, default=15, help='Number of listings (default: 15)')
 parser.add_argument('--generate_new_listings', type=bool, default=True, help='Generate new listings (default: True)')
-parser.add_argument('--test_data_enabled', type=bool, default=True, help='Enable test data (default: True)')
+parser.add_argument('--test_data_enabled', type=bool, default=False, help='Enable test data (default: False)')
 parser.add_argument('--temperature', type=float, default=0.2, help='Temperature for model (default: 0.2)')
 
 args = parser.parse_args()
