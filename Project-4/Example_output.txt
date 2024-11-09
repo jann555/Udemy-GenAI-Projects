@@ -1,0 +1,114 @@
+1.
+Input Questions and Answers:
+Let's start by getting you know your preferences by answering some basic questions to help you find your dream home
+
+What is your budget?
+
+
+My budget is between $500,000 and $680,000
+
+
+How big do you want your house to be?
+
+
+A comfortable three-bedroom house with a spacious kitchen and a cozy living room.
+
+
+What are 3 most important things for you in choosing this property?
+
+
+A quiet neighborhood, good local schools, and convenient shopping options.
+
+
+Which amenities would you like?
+
+
+A backyard for gardening, a two-car garage, and a gas heating system.
+
+
+Which transportation options are important to you?
+
+
+Proximity to a major highway, and bike-friendly roads.
+
+
+How urban do you want your neighborhood to be?
+
+
+A balance between suburban tranquility and access to urban amenities like restaurants and theaters.
+------------------------------------------------------------------------------------------------------
+Output:
+-------------------------------------------------------------------------------------------------------
+Based on your preferences, I have found two listings that may interest you:
+
+1. Neighborhood: Grant Park
+   Price: $600,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 2,500 sqft
+
+   Description: Welcome to this charming bungalow in Grant Park, a quiet neighborhood perfect for families.
+   This beautifully renovated home offers a modern touch while preserving its historic charm.
+   The spacious kitchen with high-end appliances and a large island is perfect for your culinary adventures.
+   The cozy living room with a fireplace and built-in bookshelves is ideal for relaxing evenings.
+   The primary suite with a luxurious bathroom provides a retreat after a long day. With a private backyard oasis
+   and proximity to the Atlanta Zoo and Grant Park, this home offers the tranquility and convenience you desire.
+
+2. Neighborhood: Midtown
+   Price: $1,500,000
+   Bedrooms: 3
+   Bathrooms: 3
+   House Size: 2,800 sqft
+
+   Description: Step into luxury with this penthouse in Midtown, offering breathtaking views of the city skyline.
+   The open floor plan features a gourmet kitchen with high-end appliances and a large island, perfect for
+   entertaining. The living room with floor-to-ceiling windows and a fireplace provides a cozy ambiance.
+   The primary suite is a true retreat with a spa-like bathroom and a spacious walk-in closet.
+   Enjoy the building amenities like a rooftop pool, fitness center, and concierge service.
+   Located in the heart of Midtown, this home offers a perfect balance between urban living and suburban tranquility,
+   with easy access to restaurants, shops, and entertainment options.
+--------------------------------------------------------------------------------------------------------------------
+Original Listings:
+---------------------------------------------------------------------------------------------------------------------
+ Neighborhood: Grant Park
+   Price: $600,000
+   Bedrooms: 4
+   Bathrooms: 3
+   House Size: 2,500 sqft
+
+   Description: This charming bungalow in Grant Park has been beautifully renovated and offers the perfect blend of modern
+   updates and historic charm. The main level features an open floor plan with a gourmet kitchen, complete with high-end
+   appliances and a large island. The kitchen flows seamlessly into the living room, which features a cozy fireplace and
+   built-in bookshelves. The primary suite is located on the main level and includes a luxurious bathroom with a double
+   vanity and walk-in shower. Upstairs, you'll find three additional bedrooms and two full bathrooms. The backyard is a
+   private oasis, with a covered patio and plenty of room for outdoor entertaining. This home is located in one of Atlanta's
+   most desirable neighborhoods and is just a short walk from the Atlanta Zoo, Grant Park, and other popular attractions.
+
+   Neighborhood Description: Grant Park is a historic and diverse neighborhood, known for its beautiful homes, popular
+   restaurants and bars, and proximity to popular attractions. The neighborhood is also home to the annual Grant Park
+   Summer Shade Festival, which draws thousands of visitors each year. With a strong sense of community and a variety of
+   housing options, Grant Park is a highly desirable place to live.
+
+Neighborhood: Midtown
+   Price: $1,500,000
+   Bedrooms: 3
+   Bathrooms: 3
+   House Size: 2,800 sqft
+
+   Description: This luxurious penthouse in Midtown offers stunning views of the city skyline. With three bedrooms and three
+   bathrooms, this home boasts over 2,800 square feet of living space. The open floor plan features a gourmet kitchen with
+   high-end appliances, a large island, and plenty of storage space. The kitchen flows seamlessly into the living room,
+   which features floor-to-ceiling windows and a fireplace. The primary suite is a true retreat, with a spa-like bathroom
+   and a large walk-in closet. The building offers a variety of amenities, including a rooftop pool, fitness center, and
+   concierge service. This home is located in the heart of Midtown, just steps away from popular restaurants, shops, and
+   entertainment options.
+
+   Neighborhood Description: Midtown is a bustling and vibrant neighborhood, known for its high-rise condos, trendy
+   restaurants and bars, and cultural attractions. Residents have easy access to the Atlanta Beltline, Piedmont Park, and
+   other popular destinations. With a mix of historic and modern architecture, Midtown offers a unique and diverse
+   community for its residents.
+
+ ----------------------------------------------------------------------------------------------------------------------
+ Analysis:
+ We can see that the original template format was kept, but the listing was changed to accomodate the user's preferences
+
